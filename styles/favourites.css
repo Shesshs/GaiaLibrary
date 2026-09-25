@@ -86,7 +86,7 @@ main {
     color: black;
     pointer-events: none;
     left: 50%;
-    top: 40%;
+    top: 50%;
     font-weight: 600;
     opacity: 0;
     transform: translateX(-50%);
@@ -95,7 +95,7 @@ main {
 }
 
 .navi:hover::before {
-    top: 0;
+    top: 30%;
     opacity: 1;
 }
 
