@@ -360,3 +360,6 @@ main{
 #form-shelf input:focus::placeholder{
     color: transparent;
 }
+.mybad{
+    opacity:0;
+}
